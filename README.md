@@ -1,0 +1,4 @@
+Documentation
+=============
+
+TailorCMS Documentation
